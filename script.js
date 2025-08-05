@@ -1,6 +1,6 @@
 const products = [
-    { name: 'mazapan', price: 4, code: '2414200880' },
-    { name: 'Pan Bimbo', price: 35, code: '7501000100102' },
+    { name: 'mazapan', price: 4, code: '02414200880' },
+    { name: 'sabrita', price: 35, code: '501011112254' },
     { name: 'Leche', price: 25, code: '7501026000901' },
     { name: 'Huevo', price: 45, code: '1234567890123' }
 ];
